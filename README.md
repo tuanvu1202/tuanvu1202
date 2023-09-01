@@ -8,7 +8,7 @@ I am a web developer who is passionate about creating engaging websites. With ex
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [tuanvu1202208@gmail.com](mailto:tuanvu1202208@gmail.com)
-* 🧠  I'm learning PHP, Javascript, Python
+* 🧠  I'm learning Javascript, Python
 
 ### Skills
 
