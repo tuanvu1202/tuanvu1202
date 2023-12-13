@@ -1,7 +1,5 @@
 Hi, My name is Phan Tuan Vu
 ========================================================================================================================================
-
-* 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [tuanvu1202208@gmail.com](mailto:tuanvu1202208@gmail.com)
 * 🧠  I'm learning Javascript, Python
 
