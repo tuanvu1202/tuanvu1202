@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuan Vu</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h3 align="center">I am a student and coder from Vietnam.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/nSCXZHpOQnFI6ht4c2/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanvu1202&label=Profile%20views&color=0e75b6&style=flat" alt="tuanvu1202" /> </p>
