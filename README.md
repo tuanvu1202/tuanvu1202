@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at **THPT Võ Chí Công**
 
-- 🌱 I’m currently learning **Python, C++, JavaScript**
+- 🌱 I’m currently learning **Python, C++**
 
 - 📫 How to reach me **tuanvu1202208@gmail.com**
 
